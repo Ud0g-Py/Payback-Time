@@ -4,3 +4,9 @@
 [submodule "Windows/Flare-VM"]
 	path = Windows/Flare-VM
 	url = https://github.com/mandiant/flare-vm.git
+[submodule "Forensics/Volatility3"]
+	path = Forensics/Volatility3
+	url = https://github.com/volatilityfoundation/volatility3.git
+[submodule "Forensics/Volatility"]
+	path = Forensics/Volatility
+	url = https://github.com/volatilityfoundation/volatility
