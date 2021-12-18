@@ -1,0 +1,3 @@
+[submodule "Windows/Get-ZimmermanTools"]
+	path = Windows/Get-ZimmermanTools
+	url = https://github.com/EricZimmerman/Get-ZimmermanTools
