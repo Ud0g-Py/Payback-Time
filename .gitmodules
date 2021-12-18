@@ -1,3 +1,6 @@
 [submodule "Windows/Get-ZimmermanTools"]
 	path = Windows/Get-ZimmermanTools
 	url = https://github.com/EricZimmerman/Get-ZimmermanTools
+[submodule "Windows/Flare-VM"]
+	path = Windows/Flare-VM
+	url = https://github.com/mandiant/flare-vm.git
