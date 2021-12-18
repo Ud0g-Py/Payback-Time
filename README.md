@@ -3,6 +3,9 @@ Repositorio de herramientas para Digital Forensics &amp; Incident Response (Blue
 
 ![alt text](https://static.wixstatic.com/media/aacf8f_d529e0363a9647d49b64829fcd785fb1~mv2.png)
 
+# 📘 Blue-Team Gitbook => https://hunter.jorgetesta.tech
+# 📕 Red-Team Gitbook => https://tryharder.jorgetesta.tech
+
 # ⚠ DISCLAIMER ⚠
 ## Spanish (🇪🇸)
 Todo el contenido aquí mostrado tiene una finalidad puramente educativa. En ningún momento debe usarse ninguna parte del código fuente aquí mostrado con fines delictivos o que atenten contra las leyes pertinentes de cada estado. 
