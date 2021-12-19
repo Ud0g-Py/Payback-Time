@@ -7,7 +7,8 @@ Repositorio de herramientas para Digital Forensics &amp; Incident Response (Blue
 # 📕 Red-Team Gitbook => https://tryharder.jorgetesta.tech
 # 🌐 Web => https://www.jorgetesta.tech
 
-# ⚠ DISCLAIMER ⚠ La información de fuentes externas añadidas a este repositorio pertenece a sus autores originales
+# ⚠ DISCLAIMER ⚠ 
+La información de fuentes externas añadidas a este repositorio pertenece a sus autores originales
 
 ## Spanish (🇪🇸)
 Todo el contenido aquí mostrado tiene una finalidad puramente educativa. En ningún momento debe usarse ninguna parte del código fuente aquí mostrado con fines delictivos o que atenten contra las leyes pertinentes de cada estado. 
