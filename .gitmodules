@@ -10,3 +10,6 @@
 [submodule "Forensics/Volatility"]
 	path = Forensics/Volatility
 	url = https://github.com/volatilityfoundation/volatility
+[submodule "Malware/Other/mal_unpack"]
+	path = Malware/Other/mal_unpack
+	url = https://github.com/hasherezade/mal_unpack.git
