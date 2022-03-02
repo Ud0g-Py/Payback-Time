@@ -13,3 +13,12 @@
 [submodule "Malware/Other/mal_unpack"]
 	path = Malware/Other/mal_unpack
 	url = https://github.com/hasherezade/mal_unpack.git
+[submodule "Malware/Noriben"]
+	path = Malware/Noriben
+	url = https://github.com/Rurik/Noriben
+[submodule "Forensics/BMC-Tools"]
+	path = Forensics/BMC-Tools
+	url = https://github.com/ANSSI-FR/bmc-tools
+[submodule "Forensics/RDPCacheStitcher"]
+	path = Forensics/RDPCacheStitcher
+	url = https://github.com/BSI-Bund/RdpCacheStitcher
