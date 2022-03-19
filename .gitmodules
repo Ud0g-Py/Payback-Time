@@ -1,9 +1,6 @@
 [submodule "Windows/Get-ZimmermanTools"]
 	path = Windows/Get-ZimmermanTools
 	url = https://github.com/EricZimmerman/Get-ZimmermanTools
-[submodule "Windows/Flare-VM"]
-	path = Windows/Flare-VM
-	url = https://github.com/mandiant/flare-vm.git
 [submodule "Forensics/Volatility3"]
 	path = Forensics/Volatility3
 	url = https://github.com/volatilityfoundation/volatility3.git
@@ -22,3 +19,9 @@
 [submodule "Forensics/RDPCacheStitcher"]
 	path = Forensics/RDPCacheStitcher
 	url = https://github.com/BSI-Bund/RdpCacheStitcher
+[submodule "Forensics/Scalpel"]
+	path = Forensics/Scalpel
+	url = https://github.com/sleuthkit/scalpel
+[submodule "Forensics/StegCracker"]
+	path = Forensics/StegCracker
+	url = https://github.com/Paradoxis/StegCracker
