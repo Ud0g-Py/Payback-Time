@@ -25,3 +25,6 @@
 [submodule "Forensics/StegCracker"]
 	path = Forensics/StegCracker
 	url = https://github.com/Paradoxis/StegCracker
+[submodule "Forensics/DeepBlueCLI"]
+	path = Forensics/DeepBlueCLI
+	url = https://github.com/sans-blue-team/DeepBlueCLI
